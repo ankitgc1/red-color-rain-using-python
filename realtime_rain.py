@@ -1,8 +1,4 @@
-
-# coding: utf-8
-
-# In[1]:
-
+#Art by ankit
 
 import numpy as np
 import cv2
